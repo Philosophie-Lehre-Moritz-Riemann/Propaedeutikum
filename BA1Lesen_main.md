@@ -40,7 +40,7 @@ Iris Murdoch, *Die Souveränität des Guten*, übers. v. Eva-Maria Düringer, Fr
 
 | **19.10.2026** | **Eröffnung, Organisatorisches** | **Zusatz** |
 |------------|------------------------------|---------|
-| 26.10.2026 | Gottfried Gabriel, „Zur Interpretation philosophischer und literarischer Texte“, in:  |  |
+| 26.10.2026 | Gottfried Gabriel, „Zur Interpretation philosophischer und literarischer Texte“ |  |
 | 02.11.2026 | Iris Murdoch: Leben und Werk; erste Lektüre |  |
 | 09.11.2026 | Lektüre und Gliederung  |  |
 | 16.11.2026 | Lektüre und Lesetechniken |  |
@@ -94,9 +94,9 @@ Die Fachbibliothek Philosophie bietet Führungen zur Anleitung der Benutzung an.
 
 
 
-## Sitzung am 19.10.2026
+## Sitzung am 26.10.2026
 
-G. Gabriel: „Zur Interpretation philosophischer und literarischer Texte“
+G. Gabriel: „Zur Interpretation philosophischer und literarischer Texte“ (im OLAT-Materialordner)
 
 
 **Zur nächsten Sitzung:**
