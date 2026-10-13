@@ -20,9 +20,9 @@ narrator: UK English Female
 ## "Regierungserklärung"
 
 1. Die Teilnahme am Seminar erfordert die vorbereitende, gründliche Lektüre der Texte.
-2. Eine regelmäßige und aktive Teilnahme aller Seminarteilnehmenden ist Voraussetzung für ein gelingendes Seminar. In der Übung besteht Anwesenheitspflicht, zum Besethen des Moduls dürfen 2 Fehlzeiten nicht überschritten werden.
+2. Eine regelmäßige und aktive Teilnahme aller Seminarteilnehmenden ist Voraussetzung für ein gelingendes Seminar. In der Übung besteht Anwesenheitspflicht, zum Bestehen des Moduls dürfen 2 unentschuldigte Fehlzeiten nicht überschritten werden.
 3. Philosophische Seminare leben vom diskursiven Austausch. Nehmt in Euren Diskussionsbeiträgen auf den Text und aufeinander Bezug, lasst einander ausreden und vermeidet lange, abschweifende Exkurse.
-4. Meine Sprechsstunde (Mittwoch 10:15) ist offen für alle Anliegen, es ist keine Anmeldung erforderlich.
+4. Meine Sprechsstunde (Montag 16:15) ist offen für alle Anliegen, es ist keine Anmeldung erforderlich.
 5. Bevor Ihr eine Email schreibt: Seht im Seminarplan nach, ob die gesuchte Information dort zu finden ist.
 
 ## Zuordnung
