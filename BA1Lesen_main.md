@@ -47,11 +47,11 @@ Iris Murdoch, *Die Souveränität des Guten*, übers. v. Eva-Maria Düringer, Fr
 | 09.11.2026 | Lektüre und Gliederung  | Abgabe Gliederung: 20.11. |
 | 16.11.2026 | Lektüre und Lesetechniken: Distant, Deep und Close Reading |  |
 | 23.11.2026 | Führung durch die Fachbibliothek |  |
-| 30.11.2026 | Lektüre und Lesetechniken / Forschungsliteratur | Abgabe Leseübung 10.12.2026  |
-| 07.12.2026 | keine Sitzung: Literaturrecherche | Abgabe Literaturliste  |
-| 14.12.2026 | Lektüre / Argumentationsrekonstruktion | Abgabe Rekonstruktion: 6.1.2027 |
-| 11.01.2027 | Lektüre | |
-| 18.01.2027 | Forschung: Wie schreibt man einen Essay? Textgrundlage: Annett Welsch: Der Essay als Denkbewegung, in: Dialektik, Zeitschrift für Kulturphilosophie, 2/2003;  Aufgabenstellung Essay  |Abgabe Essay 30.01.2027|
+| 30.11.2026 | Lektüre und Lesetechniken / Forschungsliteratur | Abgabe Leseübung 11.12.2026  |
+| 07.12.2026 | keine Sitzung: Literaturrecherche | Abgabe Literaturliste 11.12.2026  |
+| 14.12.2026 | Besprechung / Argumentationsrekonstruktion | |
+| 11.01.2027 | Lektüre / Argumentationsrekonstruktion | |
+| 18.01.2027 | Forschung: Wie schreibt man einen Essay? Textgrundlage: Annett Welsch: Der Essay als Denkbewegung, in: Dialektik, Zeitschrift für Kulturphilosophie, 2/2003;  Aufgabenstellung Essay & Argumentationsrekonstruktion  |Abgabe Essay **oder** Rekonstruktion 30.01.2027|
 | 25.01.2027 | Keine Sitzung: Schreibzeit | |
 | 01.02.2027 | Abschlussdiskussion |  |
 
@@ -65,12 +65,11 @@ Iris Murdoch, *Die Souveränität des Guten*, übers. v. Eva-Maria Düringer, Fr
 Im Rahmen der Übung werden Sie verschiedene kleine Prüfungsformen erstellen:
 
 * Anfangsrecherche zu Iris Murdoch: Leben und Werk, Literaturliste mit 5 wichtigen Titeln.
-* Dokumentierte Leseübung: Distant, Deep und Close Reading
 * Gliederung eines Abschnitts
+* Dokumentierte Leseübung: Distant, Deep und Close Reading
 * Recherche von Forschungsliteratur zu Iris Murdoch: 10 Titel, davon mindestens je eine Monographie, ein Aufsatz aus einem Sammelband, ein Aufsatz in einer Fachzeitschrift, ein Eintrag im Historischen Wörterbuch der Philosophie zu einem relevanten Begriff. **Achtung: Werke von Iris Murdoch gehören nicht in diese Recherche!**
 * Teilnahme an einem Recherchetutorium. [Termine und Informationen](https://lms.uni-kiel.de/url/RepositoryEntry/5855772767)
-* Argumentationsrekonstruktion
-* Essay (2-3 Seiten zu einem gestellten Thema)
+* Argumentationsrekonstruktion **oder** Essay (2-3 Seiten zu einem gestellten Thema)
 
 Die Prüfungsleistungen werden im Abgabeordner auf OLAT eingereicht. 
 Achten Sie bitte auf die formalen Hinweise in der Broschüre zum wissenschaftlichen Arbeiten und verwenden Sie die Deckblattvorgaben:
