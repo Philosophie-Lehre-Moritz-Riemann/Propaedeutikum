@@ -136,6 +136,7 @@ G. Gabriel: „Zur Interpretation philosophischer und literarischer Texte“ (im
 
 1. Lest "Die Idee der Vollkommenheit" zu Ende.
 2. Fertigt eine Gliederung des Texts "Die Idee der Vollkommenheit" an. Arbeitet mit 2 Untergliederungsebenen [e.g. I.1 ... I.1.2 ... IV. 1.3] (Abgabe im OLAT bis Freitag, 20.11.2026 18 Uhr)
-3. Recherchiert online die Begriffe Distant Reading, Close Reading und Deep Reading
+3. Lest Jonas Pfister: Werkzeuge des Philosophierens, Kapitel 7 (im OLAT)
+4. Recherchiert dazu die Begriffe Distant Reading, Close Reading und Deep Reading
 
 
